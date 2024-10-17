@@ -10,5 +10,5 @@ This project demonstrates the setup of a complete CI/CD pipeline for a simple we
 - AWS CodeBuild for build automation
 - Amazon S3 for artifact storage
 -  AWS IAM for security and access management
--  
+  
 The project walks through the process of manually setting up these services, then capturing the infrastructure in a CloudFormation template.
